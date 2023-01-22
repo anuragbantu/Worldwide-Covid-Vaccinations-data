@@ -8,6 +8,6 @@ Amid this progress, the world was caught off guard when the omicron variant rose
 
 Millions of vaccinated people have gotten sick from the omicron strain, but the shots served their most important function—preventing severe illness. During the omicron wave, vaccination with a booster reduced the chance of hospitalization and death by more than 90%. Sudden spikes of cases from the fast-moving variant have pressured health systems, but the outlook for the average Covid patient has improved significantly.
 
-In this Exploratory Data Analysis project, we look to answer certain questions regarding the Global Vaccination program to combat COVID-19 which is bringing an end to the pandemic. The important tools used for this project are SQL and Tableau where the results will be visually illustrated.
+In this Exploratory Data Analysis project, we look to answer certain questions and learn more regarding the Global Vaccination program to combat COVID-19 which is bringing an end to the pandemic. The important tools used for this project are SQL and Tableau where the results will be visually illustrated.
 
 The data is sourced from ourworldindata.org
